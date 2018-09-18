@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TradingApp</string>
+    <string name="welcome_message">Welcome to TradingApp! Where you can trade your items with other people items</string>
+    <string name="main_features">Through this app you can exchange items you own but do not need anymore with items other people own but do not need !  </string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="place_holder_demo_text">Demo Text Place Holder</string>
+    <string name="register_new_user">Register New User</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="error_getting_response">That didn\'t work!</string>
+
+    <string name="next"> > </string>
+
+</resources>

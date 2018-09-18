@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق التبادل</string>
+    <string name="welcome_message">Welcome to TradingApp! Where you can trade your items with other people items</string>
+    <string name="main_features">Through this </string>
+
+    <string name="email_address">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">الدخول</string>
+    <string name="register_new_account">إنشاء حساب جديد</string>
+    <string name="register_new_user">Register New User</string>
+    <string name="name">الاسم</string>r
+    <string name="email">البريد الإلكتروني</string>
+    <string name="register">Register</string>
+    <string name="error_getting_response">That didn\'t work!</string>
+</resources>
